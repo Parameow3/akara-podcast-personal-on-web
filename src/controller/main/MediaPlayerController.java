@@ -342,11 +342,11 @@ public class MediaPlayerController implements Initializable {
 //        }
 //        else System.out.println("It's null");
 
-        media = new Media(songsUrl.get(songNumber));
-        mediaPlayer = new MediaPlayer(media);
-
-        mediaStatic = media;
-        mediaPlayerStatic = mediaPlayer;
+//        media = new Media(songsUrl.get(songNumber));
+//        mediaPlayer = new MediaPlayer(media);
+//
+//        mediaStatic = media;
+//        mediaPlayerStatic = mediaPlayer;
 
         DataInitializer dataInitializer = new DataInitializer();
 
