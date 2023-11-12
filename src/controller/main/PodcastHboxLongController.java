@@ -97,7 +97,7 @@ public class PodcastHboxLongController implements Initializable {
         durationHboxLong.setText(podcast.getDuration() + " min");
 
 //        file = new File(podcast.getPodcastUrl());
-        media = new Media(podcast.getPodcastUrl());
+//        media = new Media(podcast.getPodcastUrl());
     }
 
 
@@ -109,7 +109,7 @@ public class PodcastHboxLongController implements Initializable {
             String podcaster = this.podcast.getPodcaster();
             String duration = this.podcast.getDuration();
             String genre = this.podcast.getGenre();
-            String source = media.getSource();
+            String source = podcast.getPodcastUrl();
             Image image = imgHboxLong.getImage();
 
             System.out.println("title: " + title);
@@ -124,7 +124,7 @@ public class PodcastHboxLongController implements Initializable {
             MediaPlayerController.setImgMediaPlayerStatic(image);
             MediaPlayerController.setDurationMediaPlayerStatic(duration);
             MediaPlayerController.setGenreMediaPlayerStatic(genre);
-            MediaPlayerController.setMediaStatic(media, podcast.getPodcastUrl());
+            MediaPlayerController.setMediaStatic(podcast.getPodcastUrl());
             MediaPlayerController.writeToFile(recently);
             playImg.setImage(new Image(Objects.requireNonNull(getClass().getResource("/image/pause.png")).toString()));
             isPlaying = true;

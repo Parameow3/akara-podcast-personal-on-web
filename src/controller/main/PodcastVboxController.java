@@ -87,7 +87,7 @@ public class PodcastVboxController implements Initializable {
 //        file = new File(podcast.getPodcastUrl());
 //        media = new Media(file.toURI().toString());
         this.podcast = podcast;
-        media = new Media(podcast.getPodcastUrl());
+//        media = new Media(podcast.getPodcastUrl());
     }
 
     @Override
@@ -104,7 +104,7 @@ public class PodcastVboxController implements Initializable {
             String podcaster = podcasterVbox.getText();
             String duration = durationVbox.getText();
             String genre = genreVbox.getText();
-            String source = media.getSource();
+            String source = podcast.getPodcastUrl();
             Image image = imgVbox.getImage();
 
             System.out.println("title: " + title);
@@ -119,7 +119,7 @@ public class PodcastVboxController implements Initializable {
             MediaPlayerController.setImgMediaPlayerStatic(image);
             MediaPlayerController.setDurationMediaPlayerStatic(duration);
             MediaPlayerController.setGenreMediaPlayerStatic(genre);
-            MediaPlayerController.setMediaStatic(media, podcast.getPodcastUrl());
+            MediaPlayerController.setMediaStatic(podcast.getPodcastUrl());
             MediaPlayerController.writeToFile(recently);
             playImg.setImage(new Image(Objects.requireNonNull(getClass().getResource("/image/pause.png")).toString()));
             isPlaying = true;

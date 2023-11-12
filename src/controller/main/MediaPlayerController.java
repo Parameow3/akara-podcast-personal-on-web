@@ -121,7 +121,7 @@ public class MediaPlayerController implements Initializable {
         MediaPlayerController.imgMediaPlayerStatic.setImage(imgMediaPlayerStatic);
     }
 
-    public static void setMediaStatic(Media media, String url) {
+    public static void setMediaStatic(String mediaUrl) {
         // pause current media play
         if (isPlaying) {
             staticPlayImg.setImage(new Image(Objects.requireNonNull(MediaPlayerController.class.getResource("/image/play.png")).toString()));
@@ -131,11 +131,11 @@ public class MediaPlayerController implements Initializable {
         }
 
         // replace new media
-        mediaStatic = media;
-        mediaPlayerStatic = new MediaPlayer(media);
+        mediaStatic = new Media(mediaUrl);
+        mediaPlayerStatic = new MediaPlayer(mediaStatic);
 
         // add file to songs
-        songsUrl.add(songNumber + 1, url);
+        songsUrl.add(songNumber + 1, mediaUrl);
         songNumber++;
 
         // play new one

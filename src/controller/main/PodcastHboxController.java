@@ -90,7 +90,7 @@ public class PodcastHboxController {
         // media source
         source = podcast.getPodcastUrl();
 //        file = new File(source);
-        media = new Media(source);
+//        media = new Media(source);
     }
 
     @FXML
@@ -101,7 +101,7 @@ public class PodcastHboxController {
             String podcaster = this.podcaster;
             String duration = this.duration;
             String genre = this.genre;
-            String source = media.getSource();
+            String source = podcast.getPodcastUrl();
             Image image = img.getImage();
 
             System.out.println("title: " + title);
@@ -116,7 +116,7 @@ public class PodcastHboxController {
             MediaPlayerController.setImgMediaPlayerStatic(image);
             MediaPlayerController.setDurationMediaPlayerStatic(duration);
             MediaPlayerController.setGenreMediaPlayerStatic(genre);
-            MediaPlayerController.setMediaStatic(media, podcast.getPodcastUrl());
+            MediaPlayerController.setMediaStatic(podcast.getPodcastUrl());
             MediaPlayerController.writeToFile(podcast);
             playImg.setImage(new Image(Objects.requireNonNull(getClass().getResource("/image/pause.png")).toString()));
             isPlaying = true;
