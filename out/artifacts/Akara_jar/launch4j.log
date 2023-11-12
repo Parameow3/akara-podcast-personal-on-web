@@ -1,0 +1,195 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\Admin\Downloads\akara-podcast-personal-first\akara-podcast-personal-first\out\artifacts\Akara_jar\akara.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Admin\Downloads\akara-podcast-personal-first\akara-podcast-personal-first\out\artifacts\Akara_jar\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Python311\Scripts\;C:\Python311\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\TDM-GCC-64\bin;C:\ProgramData\ComposerSetup\bin;C:\Program Files\dotnet\;C:\ProgramData\chocolatey\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\Admin\Downloads\node-v16.4.0-win-x64;C:\Program Files\Java\jdk-17.0.5\bin;C:\Program Files\Java\javafx-sdk-19\bin;C:\Users\Admin\anaconda3;C:\Users\Admin\anaconda3\Library\mingw-w64\bin;C:\Users\Admin\anaconda3\Library\usr\bin;C:\Users\Admin\anaconda3\Library\bin;C:\Users\Admin\anaconda3\Scripts;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Admin\AppData\Local\Microsoft\WindowsApps;C:\Users\Admin\AppData\Local\JetBrains\Toolbox\scripts;C:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\bin;C:\TDM-GCC-64\x86_64-w64-mingw32\bin;C:\Users\Admin\AppData\Local\ComposerSetup\bin;C:\Users\Admin\AppData\Roaming\Composer\vendor\bin;C:\Users\Admin\AppData\Roaming\npm;C:\php-8.2.6;C:\Users\Admin\AppData\Local\Programs\oh-my-posh\bin;C:\Program Files\heroku\bin;C:\Program Files\Java\jdk-17.0.5\bin
+JRE paths:	;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Python311\Scripts\;C:\Python311\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\TDM-GCC-64\bin;C:\ProgramData\ComposerSetup\bin;C:\Program Files\dotnet\;C:\ProgramData\chocolatey\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\Admin\Downloads\node-v16.4.0-win-x64;C:\Program Files\Java\jdk-17.0.5\bin;C:\Program Files\Java\javafx-sdk-19\bin;C:\Users\Admin\anaconda3;C:\Users\Admin\anaconda3\Library\mingw-w64\bin;C:\Users\Admin\anaconda3\Library\usr\bin;C:\Users\Admin\anaconda3\Library\bin;C:\Users\Admin\anaconda3\Scripts;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Admin\AppData\Local\Microsoft\WindowsApps;C:\Users\Admin\AppData\Local\JetBrains\Toolbox\scripts;C:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\bin;C:\TDM-GCC-64\x86_64-w64-mingw32\bin;C:\Users\Admin\AppData\Local\ComposerSetup\bin;C:\Users\Admin\AppData\Roaming\Composer\vendor\bin;C:\Users\Admin\AppData\Roaming\npm;C:\php-8.2.6;C:\Users\Admin\AppData\Local\Programs\oh-my-posh\bin;C:\Program Files\heroku\bin;C:\Program Files\Java\jdk-17.0.5\bin
+Check launcher:	C:\Program Files (x86)\VMware\VMware Workstation\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Python311\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Python311\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\TDM-GCC-64\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\ComposerSetup\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Admin\Downloads\node-v16.4.0-win-x64\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-17.0.5\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-17.0.5\bin\javac.exe (OK)
+Version string: 1.017.000_005 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17.0.5\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Admin\Downloads\akara-podcast-personal-first\akara-podcast-personal-first\out\artifacts\Akara_jar\akara.exe"
+Args length:	123/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Admin\Downloads\akara-podcast-personal-first\akara-podcast-personal-first\out\artifacts\Akara_jar\akara.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Admin\Downloads\akara-podcast-personal-first\akara-podcast-personal-first\out\artifacts\Akara_jar\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Python311\Scripts\;C:\Python311\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\TDM-GCC-64\bin;C:\ProgramData\ComposerSetup\bin;C:\Program Files\dotnet\;C:\ProgramData\chocolatey\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\Admin\Downloads\node-v16.4.0-win-x64;C:\Program Files\Java\jdk-17.0.5\bin;C:\Program Files\Java\javafx-sdk-19\bin;C:\Users\Admin\anaconda3;C:\Users\Admin\anaconda3\Library\mingw-w64\bin;C:\Users\Admin\anaconda3\Library\usr\bin;C:\Users\Admin\anaconda3\Library\bin;C:\Users\Admin\anaconda3\Scripts;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Admin\AppData\Local\Microsoft\WindowsApps;C:\Users\Admin\AppData\Local\JetBrains\Toolbox\scripts;C:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\bin;C:\TDM-GCC-64\x86_64-w64-mingw32\bin;C:\Users\Admin\AppData\Local\ComposerSetup\bin;C:\Users\Admin\AppData\Roaming\Composer\vendor\bin;C:\Users\Admin\AppData\Roaming\npm;C:\php-8.2.6;C:\Users\Admin\AppData\Local\Programs\oh-my-posh\bin;C:\Program Files\heroku\bin;C:\Program Files\Java\jdk-17.0.5\bin
+JRE paths:	;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Python311\Scripts\;C:\Python311\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\TDM-GCC-64\bin;C:\ProgramData\ComposerSetup\bin;C:\Program Files\dotnet\;C:\ProgramData\chocolatey\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\Admin\Downloads\node-v16.4.0-win-x64;C:\Program Files\Java\jdk-17.0.5\bin;C:\Program Files\Java\javafx-sdk-19\bin;C:\Users\Admin\anaconda3;C:\Users\Admin\anaconda3\Library\mingw-w64\bin;C:\Users\Admin\anaconda3\Library\usr\bin;C:\Users\Admin\anaconda3\Library\bin;C:\Users\Admin\anaconda3\Scripts;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Admin\AppData\Local\Microsoft\WindowsApps;C:\Users\Admin\AppData\Local\JetBrains\Toolbox\scripts;C:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\bin;C:\TDM-GCC-64\x86_64-w64-mingw32\bin;C:\Users\Admin\AppData\Local\ComposerSetup\bin;C:\Users\Admin\AppData\Roaming\Composer\vendor\bin;C:\Users\Admin\AppData\Roaming\npm;C:\php-8.2.6;C:\Users\Admin\AppData\Local\Programs\oh-my-posh\bin;C:\Program Files\heroku\bin;C:\Program Files\Java\jdk-17.0.5\bin
+Check launcher:	C:\Program Files (x86)\VMware\VMware Workstation\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Python311\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Python311\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\TDM-GCC-64\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\ComposerSetup\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Admin\Downloads\node-v16.4.0-win-x64\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-17.0.5\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-17.0.5\bin\javac.exe (OK)
+Version string: 1.017.000_005 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17.0.5\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Admin\Downloads\akara-podcast-personal-first\akara-podcast-personal-first\out\artifacts\Akara_jar\akara.exe"
+Args length:	123/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Admin\Downloads\akara-podcast-personal-first\akara-podcast-personal-first\out\artifacts\Akara_jar\akara.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Admin\Downloads\akara-podcast-personal-first\akara-podcast-personal-first\out\artifacts\Akara_jar\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Python311\Scripts\;C:\Python311\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\TDM-GCC-64\bin;C:\ProgramData\ComposerSetup\bin;C:\Program Files\dotnet\;C:\ProgramData\chocolatey\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\Admin\Downloads\node-v16.4.0-win-x64;C:\Program Files\Java\jdk-17.0.5\bin;C:\Program Files\Java\javafx-sdk-19\bin;C:\Users\Admin\anaconda3;C:\Users\Admin\anaconda3\Library\mingw-w64\bin;C:\Users\Admin\anaconda3\Library\usr\bin;C:\Users\Admin\anaconda3\Library\bin;C:\Users\Admin\anaconda3\Scripts;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Admin\AppData\Local\Microsoft\WindowsApps;C:\Users\Admin\AppData\Local\JetBrains\Toolbox\scripts;C:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\bin;C:\TDM-GCC-64\x86_64-w64-mingw32\bin;C:\Users\Admin\AppData\Local\ComposerSetup\bin;C:\Users\Admin\AppData\Roaming\Composer\vendor\bin;C:\Users\Admin\AppData\Roaming\npm;C:\php-8.2.6;C:\Users\Admin\AppData\Local\Programs\oh-my-posh\bin;C:\Program Files\heroku\bin;C:\Program Files\Java\jdk-17.0.5\bin
+JRE paths:	;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Python311\Scripts\;C:\Python311\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\TDM-GCC-64\bin;C:\ProgramData\ComposerSetup\bin;C:\Program Files\dotnet\;C:\ProgramData\chocolatey\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\Admin\Downloads\node-v16.4.0-win-x64;C:\Program Files\Java\jdk-17.0.5\bin;C:\Program Files\Java\javafx-sdk-19\bin;C:\Users\Admin\anaconda3;C:\Users\Admin\anaconda3\Library\mingw-w64\bin;C:\Users\Admin\anaconda3\Library\usr\bin;C:\Users\Admin\anaconda3\Library\bin;C:\Users\Admin\anaconda3\Scripts;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Admin\AppData\Local\Microsoft\WindowsApps;C:\Users\Admin\AppData\Local\JetBrains\Toolbox\scripts;C:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\bin;C:\TDM-GCC-64\x86_64-w64-mingw32\bin;C:\Users\Admin\AppData\Local\ComposerSetup\bin;C:\Users\Admin\AppData\Roaming\Composer\vendor\bin;C:\Users\Admin\AppData\Roaming\npm;C:\php-8.2.6;C:\Users\Admin\AppData\Local\Programs\oh-my-posh\bin;C:\Program Files\heroku\bin;C:\Program Files\Java\jdk-17.0.5\bin
+Check launcher:	C:\Program Files (x86)\VMware\VMware Workstation\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Python311\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Python311\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\TDM-GCC-64\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\ComposerSetup\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Admin\Downloads\node-v16.4.0-win-x64\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-17.0.5\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-17.0.5\bin\javac.exe (OK)
+Version string: 1.017.000_005 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17.0.5\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Admin\Downloads\akara-podcast-personal-first\akara-podcast-personal-first\out\artifacts\Akara_jar\akara.exe"
+Args length:	123/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Admin\Downloads\akara-podcast-personal-first\akara-podcast-personal-first\out\artifacts\Akara_jar\akara.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Admin\Downloads\akara-podcast-personal-first\akara-podcast-personal-first\out\artifacts\Akara_jar\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Python311\Scripts\;C:\Python311\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\TDM-GCC-64\bin;C:\ProgramData\ComposerSetup\bin;C:\Program Files\dotnet\;C:\ProgramData\chocolatey\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\Admin\Downloads\node-v16.4.0-win-x64;C:\Program Files\Java\jdk-17.0.5\bin;C:\Program Files\Java\javafx-sdk-19\bin;C:\Users\Admin\anaconda3;C:\Users\Admin\anaconda3\Library\mingw-w64\bin;C:\Users\Admin\anaconda3\Library\usr\bin;C:\Users\Admin\anaconda3\Library\bin;C:\Users\Admin\anaconda3\Scripts;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Admin\AppData\Local\Microsoft\WindowsApps;C:\Users\Admin\AppData\Local\JetBrains\Toolbox\scripts;C:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\bin;C:\TDM-GCC-64\x86_64-w64-mingw32\bin;C:\Users\Admin\AppData\Local\ComposerSetup\bin;C:\Users\Admin\AppData\Roaming\Composer\vendor\bin;C:\Users\Admin\AppData\Roaming\npm;C:\php-8.2.6;C:\Users\Admin\AppData\Local\Programs\oh-my-posh\bin;C:\Program Files\heroku\bin;C:\Program Files\Java\jdk-17.0.5\bin
+JRE paths:	;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Python311\Scripts\;C:\Python311\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\TDM-GCC-64\bin;C:\ProgramData\ComposerSetup\bin;C:\Program Files\dotnet\;C:\ProgramData\chocolatey\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\Admin\Downloads\node-v16.4.0-win-x64;C:\Program Files\Java\jdk-17.0.5\bin;C:\Program Files\Java\javafx-sdk-19\bin;C:\Users\Admin\anaconda3;C:\Users\Admin\anaconda3\Library\mingw-w64\bin;C:\Users\Admin\anaconda3\Library\usr\bin;C:\Users\Admin\anaconda3\Library\bin;C:\Users\Admin\anaconda3\Scripts;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Admin\AppData\Local\Microsoft\WindowsApps;C:\Users\Admin\AppData\Local\JetBrains\Toolbox\scripts;C:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\bin;C:\TDM-GCC-64\x86_64-w64-mingw32\bin;C:\Users\Admin\AppData\Local\ComposerSetup\bin;C:\Users\Admin\AppData\Roaming\Composer\vendor\bin;C:\Users\Admin\AppData\Roaming\npm;C:\php-8.2.6;C:\Users\Admin\AppData\Local\Programs\oh-my-posh\bin;C:\Program Files\heroku\bin;C:\Program Files\Java\jdk-17.0.5\bin
+Check launcher:	C:\Program Files (x86)\VMware\VMware Workstation\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Python311\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Python311\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\TDM-GCC-64\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\ComposerSetup\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Admin\Downloads\node-v16.4.0-win-x64\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-17.0.5\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-17.0.5\bin\javac.exe (OK)
+Version string: 1.017.000_005 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17.0.5\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Admin\Downloads\akara-podcast-personal-first\akara-podcast-personal-first\out\artifacts\Akara_jar\akara.exe"
+Args length:	123/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Admin\Downloads\akara-podcast-personal-first\akara-podcast-personal-first\out\artifacts\Akara_jar\akara.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Admin\Downloads\akara-podcast-personal-first\akara-podcast-personal-first\out\artifacts\Akara_jar\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Python311\Scripts\;C:\Python311\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\TDM-GCC-64\bin;C:\ProgramData\ComposerSetup\bin;C:\Program Files\dotnet\;C:\ProgramData\chocolatey\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\Admin\Downloads\node-v16.4.0-win-x64;C:\Program Files\Java\jdk-17.0.5\bin;C:\Program Files\Java\javafx-sdk-19\bin;C:\Users\Admin\anaconda3;C:\Users\Admin\anaconda3\Library\mingw-w64\bin;C:\Users\Admin\anaconda3\Library\usr\bin;C:\Users\Admin\anaconda3\Library\bin;C:\Users\Admin\anaconda3\Scripts;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Admin\AppData\Local\Microsoft\WindowsApps;C:\Users\Admin\AppData\Local\JetBrains\Toolbox\scripts;C:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\bin;C:\TDM-GCC-64\x86_64-w64-mingw32\bin;C:\Users\Admin\AppData\Local\ComposerSetup\bin;C:\Users\Admin\AppData\Roaming\Composer\vendor\bin;C:\Users\Admin\AppData\Roaming\npm;C:\php-8.2.6;C:\Users\Admin\AppData\Local\Programs\oh-my-posh\bin;C:\Program Files\heroku\bin;C:\Program Files\Java\jdk-17.0.5\bin
+JRE paths:	;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Python311\Scripts\;C:\Python311\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\TDM-GCC-64\bin;C:\ProgramData\ComposerSetup\bin;C:\Program Files\dotnet\;C:\ProgramData\chocolatey\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\Admin\Downloads\node-v16.4.0-win-x64;C:\Program Files\Java\jdk-17.0.5\bin;C:\Program Files\Java\javafx-sdk-19\bin;C:\Users\Admin\anaconda3;C:\Users\Admin\anaconda3\Library\mingw-w64\bin;C:\Users\Admin\anaconda3\Library\usr\bin;C:\Users\Admin\anaconda3\Library\bin;C:\Users\Admin\anaconda3\Scripts;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Admin\AppData\Local\Microsoft\WindowsApps;C:\Users\Admin\AppData\Local\JetBrains\Toolbox\scripts;C:\Users\Admin\AppData\Local\Programs\Microsoft VS Code\bin;C:\TDM-GCC-64\x86_64-w64-mingw32\bin;C:\Users\Admin\AppData\Local\ComposerSetup\bin;C:\Users\Admin\AppData\Roaming\Composer\vendor\bin;C:\Users\Admin\AppData\Roaming\npm;C:\php-8.2.6;C:\Users\Admin\AppData\Local\Programs\oh-my-posh\bin;C:\Program Files\heroku\bin;C:\Program Files\Java\jdk-17.0.5\bin
+Check launcher:	C:\Program Files (x86)\VMware\VMware Workstation\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Python311\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Python311\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\TDM-GCC-64\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\ComposerSetup\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Admin\Downloads\node-v16.4.0-win-x64\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-17.0.5\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-17.0.5\bin\javac.exe (OK)
+Version string: 1.017.000_005 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17.0.5\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Admin\Downloads\akara-podcast-personal-first\akara-podcast-personal-first\out\artifacts\Akara_jar\akara.exe"
+Args length:	123/32768 chars
+Exit code:	0
