@@ -324,11 +324,11 @@ public class MediaPlayerController implements Initializable {
         staticPlayImg = playImg;
 
         // check if media is null
-        if (mediaStatic == null) {
-            System.out.println("media is null");
-        } else {
-            System.out.println("media is not null");
-        }
+//        if (mediaStatic == null) {
+//            System.out.println("media is null");
+//        } else {
+//            System.out.println("media is not null");
+//        }
 
         songsUrl = RandomSoundPodcast.getAllURL();
 
@@ -342,11 +342,11 @@ public class MediaPlayerController implements Initializable {
 //        }
 //        else System.out.println("It's null");
 
-//        media = new Media(songsUrl.get(songNumber));
-//        mediaPlayer = new MediaPlayer(media);
-//
-//        mediaStatic = media;
-//        mediaPlayerStatic = mediaPlayer;
+        media = new Media(songsUrl.get(songNumber));
+        mediaPlayer = new MediaPlayer(media);
+
+        mediaStatic = media;
+        mediaPlayerStatic = mediaPlayer;
 
         DataInitializer dataInitializer = new DataInitializer();
 

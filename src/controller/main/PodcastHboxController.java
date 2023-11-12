@@ -63,9 +63,9 @@ public class PodcastHboxController {
     private String duration;
     private String genre;
 
-    private Media media;
-
-    private File file;
+//    private Media media;
+//
+//    private File file;
 
     private String source;
     private boolean isPlaying = false;

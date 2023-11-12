@@ -10517,3 +10517,243 @@
 2023-11-12 16:27:56,113 [INFO] in scala-execution-context-global-48 - Title:Internal Metrics Planner
 2023-11-12 16:27:56,113 [INFO] in scala-execution-context-global-48 - Title:Senior Interactions Developer
 2023-11-12 16:27:56,113 [INFO] in scala-execution-context-global-48 - Title:Direct Interactions Administrator
+2023-11-12 20:28:18,505 [INFO] in scala-execution-context-global-33 - [[34mINFO [0;39m] c.jpro.activity - Starting the server
+2023-11-12 20:28:18,507 [INFO] in scala-execution-context-global-33 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ -  *** Starting JPro: https://www.jpro.one/ ***
+2023-11-12 20:28:18,507 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - OS: Windows 11
+2023-11-12 20:28:18,527 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - JPro: 9999.9.9
+2023-11-12 20:28:18,527 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - Java version: 17.0.5
+2023-11-12 20:28:18,527 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - JVM: 17.0.5 Oracle Corporation
+2023-11-12 20:28:18,530 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - JavaFX jar: file:/C:/Users/Admin/.m2/repository/org/openjfx/javafx-graphics/21.0.2.3-jpro+0/javafx-graphics-21.0.2.3-jpro+0-win.jar
+2023-11-12 20:28:18,533 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - Configuring logging from url: 'jar:file:/C:/Users/Admin/.m2/repository/com/sandec/jpro/jpro-server_2.12/9999.9.9/jpro-server_2.12-9999.9.9.jar!/logback-jpro-default.xml'
+2023-11-12 20:28:18,840 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - JavaFX version: 21.0.2.3-jpro+0-2023-09-27T13-12-33Z
+2023-11-12 20:28:18,874 [INFO] in scala-execution-context-global-34 - G1 Young Generation
+2023-11-12 20:28:18,875 [INFO] in scala-execution-context-global-34 - G1 Old Generation
+2023-11-12 20:28:18,900 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - finished init!
+2023-11-12 20:28:18,902 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - [JPro] -> Server started: {start_time: 1699795698499, os_name: Windows 11, jpro_version: 9999.9.9}
+2023-11-12 20:28:19,321 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] a.e.s.Slf4jLogger - Slf4jLogger started
+2023-11-12 20:28:19,763 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] play.api.Play - Application started (Prod) (no global state)
+2023-11-12 20:28:20,186 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] p.c.s.AkkaHttpServer - Enabling HTTP/2 on Akka HTTP server...
+2023-11-12 20:28:20,186 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] p.c.s.AkkaHttpServer - Listening for HTTP on /[0:0:0:0:0:0:0:0]:8080
+2023-11-12 20:28:21,107 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.jpro - application requested: default
+2023-11-12 20:28:21,117 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.jpro - Creating Application: default
+2023-11-12 20:28:21,119 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.jpro - remoteAddress 0:0:0:0:0:0:0:1
+2023-11-12 20:28:21,121 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.jpro - host          localhost:8080
+2023-11-12 20:28:21,122 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.jpro - uri           /app/ws/default
+2023-11-12 20:28:21,328 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - [JPro] -> View created: {app_name: default, host_name: localhost:8080, instance_id: 1888449243, browser: Microsoft Edge 119.0.0.0, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1}
+2023-11-12 20:28:21,620 [INFO] in scala-execution-context-global-35 - do it!
+2023-11-12 20:28:21,825 [INFO] in scala-execution-context-global-35 - media is null
+2023-11-12 20:28:22,004 [INFO] in scala-execution-context-global-35 - Found!
+2023-11-12 20:28:22,257 [INFO] in scala-execution-context-global-35 - Title:Investor Infrastructure Representative
+2023-11-12 20:28:22,257 [INFO] in scala-execution-context-global-34 - Title:Dynamic Implementation Liaison
+2023-11-12 20:28:22,257 [INFO] in scala-execution-context-global-35 - Title:Internal Metrics Planner
+2023-11-12 20:28:22,257 [INFO] in scala-execution-context-global-35 - Title:Senior Interactions Developer
+2023-11-12 20:28:22,257 [INFO] in scala-execution-context-global-35 - Title:Direct Interactions Administrator
+2023-11-12 20:28:22,308 [INFO] in scala-execution-context-global-35 - Do it!
+2023-11-12 20:28:23,967 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.i.c.InstanceImpl - [JPro] -> Instance created: {app_name: default, host_name: localhost:8080, instance_id: 1888449243, browser: Microsoft Edge 119.0.0.0, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1}
+2023-11-12 20:28:24,330 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@75809024
+2023-11-12 20:28:24,408 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@6096f362
+2023-11-12 20:28:24,442 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@4484fd05
+2023-11-12 20:28:24,492 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@2c95ec67
+2023-11-12 20:28:24,535 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@4c468a6
+2023-11-12 20:28:24,577 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@384af0dc
+2023-11-12 20:28:24,605 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@2cb62b82
+2023-11-12 20:28:24,640 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@2d6b30be
+2023-11-12 20:28:24,672 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@29f634ce
+2023-11-12 20:28:24,698 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@55911f52
+2023-11-12 20:28:24,717 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@6580250f
+2023-11-12 20:28:24,758 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@666bc812
+2023-11-12 20:28:24,795 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@a0632a4
+2023-11-12 20:28:24,823 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@28cc0c9e
+2023-11-12 20:28:24,849 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@6264ae27
+2023-11-12 20:28:24,885 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@329fa7f8
+2023-11-12 20:28:24,911 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@28f9e6e2
+2023-11-12 20:28:24,941 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@2034c9cf
+2023-11-12 20:28:24,962 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@1c50021d
+2023-11-12 20:28:24,993 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@4360133
+2023-11-12 20:28:25,013 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@619a5f8d
+2023-11-12 20:28:25,044 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@599a9412
+2023-11-12 20:28:25,072 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@3611acb
+2023-11-12 20:28:25,089 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@2f4c4209
+2023-11-12 20:28:25,120 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@61e548d4
+2023-11-12 20:28:25,156 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@6311bdf4
+2023-11-12 20:28:25,180 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@1c59c8be
+2023-11-12 20:28:25,201 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@1f683268
+2023-11-12 20:28:25,227 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@7ae45f0
+2023-11-12 20:28:25,247 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@3c3fb63b
+2023-11-12 20:28:25,276 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@16e3286c
+2023-11-12 20:28:25,304 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@23ea2aa0
+2023-11-12 20:28:25,323 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@5e7ae559
+2023-11-12 20:28:25,345 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@624c0db6
+2023-11-12 20:28:25,375 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@56671943
+2023-11-12 20:28:25,407 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@304abc4a
+2023-11-12 20:28:25,439 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@6b5cfcaa
+2023-11-12 20:28:25,470 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@2c8512eb
+2023-11-12 20:28:25,503 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@26b66acc
+2023-11-12 20:28:25,524 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@6d6d488d
+2023-11-12 20:28:25,553 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@396fd3a8
+2023-11-12 20:28:25,578 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@6afa11f0
+2023-11-12 20:28:25,602 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@1a2b692d
+2023-11-12 20:28:25,631 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@6552d65a
+2023-11-12 20:28:25,645 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@504a1668
+2023-11-12 20:28:25,688 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@379a6922
+2023-11-12 20:28:25,713 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@51716579
+2023-11-12 20:28:25,754 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@3c5514a5
+2023-11-12 20:28:25,782 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@6a8325
+2023-11-12 20:28:25,808 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@16ae4b78
+2023-11-12 20:28:25,831 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@2a21f08c
+2023-11-12 20:28:25,848 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@565da7ed
+2023-11-12 20:28:25,882 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@60fbd57b
+2023-11-12 20:28:25,908 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@ac48d9
+2023-11-12 20:28:25,936 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@245be301
+2023-11-12 20:28:25,972 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@77fa1b4f
+2023-11-12 20:28:26,028 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@1f6e3e54
+2023-11-12 20:28:26,056 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@5e38b020
+2023-11-12 20:28:26,085 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@6cf8b4a1
+2023-11-12 20:28:26,114 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@50b23e4d
+2023-11-12 20:28:26,159 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@1af4d5d9
+2023-11-12 20:28:26,208 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@62a86366
+2023-11-12 20:28:26,231 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@ed5a31e
+2023-11-12 20:28:26,251 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@706bbd70
+2023-11-12 20:28:26,284 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@217d4945
+2023-11-12 20:28:26,318 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@4f1f7f82
+2023-11-12 20:30:00,257 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@27931962
+2023-11-12 20:30:00,274 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@49b7039b
+2023-11-12 20:30:00,295 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@20d32242
+2023-11-12 20:30:00,318 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@4bd8fcb
+2023-11-12 20:30:00,337 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@272ab438
+2023-11-12 20:30:00,353 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@1c61b128
+2023-11-12 20:30:00,382 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@2004acc5
+2023-11-12 20:30:00,405 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@1d8e9565
+2023-11-12 20:30:00,427 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@f3c04d2
+2023-11-12 20:30:00,446 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@56cc992c
+2023-11-12 20:30:00,505 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@52233a63
+2023-11-12 20:30:00,521 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@2373b9b4
+2023-11-12 20:30:00,543 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@6b4dadbf
+2023-11-12 20:30:00,567 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@6d6c706
+2023-11-12 20:30:00,581 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@3fe0233
+2023-11-12 20:30:00,607 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@3a0be196
+2023-11-12 20:30:00,630 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@53b04dbf
+2023-11-12 20:30:00,661 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@8e78bd7
+2023-11-12 20:30:00,676 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@25e64a19
+2023-11-12 20:30:00,693 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@b8f1996
+2023-11-12 20:30:01,620 [INFO] in scala-execution-context-global-30 - Dynamic Quality Architect
+2023-11-12 20:30:01,621 [INFO] in scala-execution-context-global-30 - Diego Rivera
+2023-11-12 20:30:01,621 [INFO] in scala-execution-context-global-30 - Label
+2023-11-12 20:30:01,621 [INFO] in scala-execution-context-global-30 - Label
+2023-11-12 20:30:02,405 [INFO] in scala-execution-context-global-34 - Found!
+2023-11-12 20:30:02,613 [INFO] in scala-execution-context-global-34 - Title:Investor Infrastructure Representative
+2023-11-12 20:30:02,613 [INFO] in scala-execution-context-global-34 - Title:Dynamic Implementation Liaison
+2023-11-12 20:30:02,613 [INFO] in scala-execution-context-global-34 - Title:Internal Metrics Planner
+2023-11-12 20:30:02,613 [INFO] in scala-execution-context-global-34 - Title:Senior Interactions Developer
+2023-11-12 20:30:02,613 [INFO] in scala-execution-context-global-35 - Title:Direct Interactions Administrator
+2023-11-12 20:30:12,352 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - [JPro] -> View closed: {app_name: default, host_name: localhost:8080, instance_id: 1888449243, browser: Microsoft Edge 119.0.0.0, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1, reason: tab-closed}
+2023-11-12 20:30:12,364 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - 
+2023-11-12 20:30:12,364 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - Application closed:
+2023-11-12 20:30:12,371 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - startTime      : Sun Nov 12 20:30:12 ICT 2023      
+2023-11-12 20:30:12,371 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - averageLatency : 00:00:00.001 
+2023-11-12 20:30:12,371 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - averageJitter  : 00:00:00.001  
+2023-11-12 20:30:12,371 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - framerateServer: 00:00:00.000
+2023-11-12 20:30:12,371 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - framerateClient: 00:00:00.000
+2023-11-12 20:30:12,371 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - raw            : 1368065
+2023-11-12 20:30:12,372 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - zipped         : 202363
+2023-11-12 20:30:12,372 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - 
+2023-11-12 20:30:13,354 [INFO] in scala-execution-context-global-2634 - [[34mINFO [0;39m] c.j.i.c.InstanceImpl - [JPro] -> Instance closed: {app_name: default, host_name: localhost:8080, instance_id: 1888449243, browser: Microsoft Edge 119.0.0.0, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1, reason: close-tab-closed}
+2023-11-12 20:33:56,866 [INFO] in scala-execution-context-global-33 - [[34mINFO [0;39m] c.jpro.activity - Starting the server
+2023-11-12 20:33:56,867 [INFO] in scala-execution-context-global-33 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ -  *** Starting JPro: https://www.jpro.one/ ***
+2023-11-12 20:33:56,867 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - OS: Windows 11
+2023-11-12 20:33:56,876 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - JPro: 9999.9.9
+2023-11-12 20:33:56,876 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - Java version: 17.0.5
+2023-11-12 20:33:56,876 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - JVM: 17.0.5 Oracle Corporation
+2023-11-12 20:33:56,884 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - JavaFX jar: file:/C:/Users/Admin/.m2/repository/org/openjfx/javafx-graphics/21.0.2.3-jpro+0/javafx-graphics-21.0.2.3-jpro+0-win.jar
+2023-11-12 20:33:56,887 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - Configuring logging from url: 'jar:file:/C:/Users/Admin/.m2/repository/com/sandec/jpro/jpro-server_2.12/9999.9.9/jpro-server_2.12-9999.9.9.jar!/logback-jpro-default.xml'
+2023-11-12 20:33:57,148 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - JavaFX version: 21.0.2.3-jpro+0-2023-09-27T13-12-33Z
+2023-11-12 20:33:57,192 [INFO] in scala-execution-context-global-34 - G1 Young Generation
+2023-11-12 20:33:57,192 [INFO] in scala-execution-context-global-34 - G1 Old Generation
+2023-11-12 20:33:57,205 [INFO] in scala-execution-context-global-34 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - finished init!
+2023-11-12 20:33:57,208 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - [JPro] -> Server started: {start_time: 1699796036856, os_name: Windows 11, jpro_version: 9999.9.9}
+2023-11-12 20:33:57,551 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] a.e.s.Slf4jLogger - Slf4jLogger started
+2023-11-12 20:33:57,983 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] play.api.Play - Application started (Prod) (no global state)
+2023-11-12 20:33:58,348 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] p.c.s.AkkaHttpServer - Enabling HTTP/2 on Akka HTTP server...
+2023-11-12 20:33:58,348 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] p.c.s.AkkaHttpServer - Listening for HTTP on /[0:0:0:0:0:0:0:0]:8080
+2023-11-12 20:34:00,371 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.jpro - application requested: default
+2023-11-12 20:34:00,377 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.jpro - Creating Application: default
+2023-11-12 20:34:00,378 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.jpro - remoteAddress 0:0:0:0:0:0:0:1
+2023-11-12 20:34:00,379 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.jpro - host          localhost:8080
+2023-11-12 20:34:00,379 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.jpro - uri           /app/ws/default
+2023-11-12 20:34:00,599 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - [JPro] -> View created: {app_name: default, host_name: localhost:8080, instance_id: 811715920, browser: Microsoft Edge 119.0.0.0, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1}
+2023-11-12 20:34:00,882 [INFO] in scala-execution-context-global-35 - do it!
+2023-11-12 20:34:01,133 [INFO] in scala-execution-context-global-35 - media is null
+2023-11-12 20:34:01,292 [INFO] in scala-execution-context-global-35 - Found!
+2023-11-12 20:34:01,724 [INFO] in scala-execution-context-global-35 - Title:Investor Infrastructure Representative
+2023-11-12 20:34:01,724 [INFO] in scala-execution-context-global-35 - Title:Dynamic Implementation Liaison
+2023-11-12 20:34:01,724 [INFO] in scala-execution-context-global-35 - Title:Internal Metrics Planner
+2023-11-12 20:34:01,724 [INFO] in scala-execution-context-global-35 - Title:Senior Interactions Developer
+2023-11-12 20:34:01,725 [INFO] in scala-execution-context-global-35 - Title:Direct Interactions Administrator
+2023-11-12 20:34:01,779 [INFO] in scala-execution-context-global-35 - Do it!
+2023-11-12 20:34:03,311 [INFO] in scala-execution-context-global-35 - [[34mINFO [0;39m] c.j.i.c.InstanceImpl - [JPro] -> Instance created: {app_name: default, host_name: localhost:8080, instance_id: 811715920, browser: Microsoft Edge 119.0.0.0, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1}
+2023-11-12 20:34:03,702 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@1967d23
+2023-11-12 20:34:03,779 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@55f1452c
+2023-11-12 20:34:03,817 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@7296e220
+2023-11-12 20:34:03,864 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@574e3816
+2023-11-12 20:34:03,912 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@17cd8878
+2023-11-12 20:34:03,968 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@2cc8a4ff
+2023-11-12 20:34:03,990 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@649792c7
+2023-11-12 20:34:04,016 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@776e6d26
+2023-11-12 20:34:04,046 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@661952e7
+2023-11-12 20:34:04,082 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@3adc7275
+2023-11-12 20:34:04,108 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@76276884
+2023-11-12 20:34:04,143 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@c99f66b
+2023-11-12 20:34:04,165 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@155aa005
+2023-11-12 20:34:04,186 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@7509d236
+2023-11-12 20:34:04,212 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@6baa9e86
+2023-11-12 20:34:04,245 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@1aa1ed87
+2023-11-12 20:34:04,276 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@492f0f30
+2023-11-12 20:34:04,304 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@4e093e38
+2023-11-12 20:34:04,322 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@22a1a030
+2023-11-12 20:34:04,347 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@265a9578
+2023-11-12 20:34:04,375 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@209fb092
+2023-11-12 20:34:04,399 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@2bbe37f9
+2023-11-12 20:34:04,418 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@46f26b18
+2023-11-12 20:34:04,447 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@1dea4de6
+2023-11-12 20:34:04,471 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@80f9e7c
+2023-11-12 20:34:04,509 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@46dc5962
+2023-11-12 20:34:04,528 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@22c47e83
+2023-11-12 20:34:04,557 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@5ad80b31
+2023-11-12 20:34:04,581 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@5f435f0c
+2023-11-12 20:34:04,603 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@96e39e1
+2023-11-12 20:34:04,621 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@1b6fa7bf
+2023-11-12 20:34:04,646 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@2a8d4414
+2023-11-12 20:34:04,669 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@1297fb0f
+2023-11-12 20:34:04,707 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@30b0c7ff
+2023-11-12 20:34:04,725 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@3dc9fbc8
+2023-11-12 20:34:04,753 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@68199076
+2023-11-12 20:34:04,778 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@331d95d6
+2023-11-12 20:34:04,790 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@734d8763
+2023-11-12 20:34:04,820 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@255f5378
+2023-11-12 20:34:04,838 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@769af0d
+2023-11-12 20:34:04,856 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@6f4008b3
+2023-11-12 20:34:04,877 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@cd606
+2023-11-12 20:34:04,899 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@571be10c
+2023-11-12 20:34:04,921 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@5bc0455f
+2023-11-12 20:34:04,943 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@35b3c920
+2023-11-12 20:34:04,969 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@49a44ee7
+2023-11-12 20:34:04,987 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@37aab2a
+2023-11-12 20:34:05,008 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@3a08b7d5
+2023-11-12 20:34:05,024 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@5940c7c6
+2023-11-12 20:34:05,048 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@3bc20e0f
+2023-11-12 20:34:05,068 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@16f7750
+2023-11-12 20:34:05,085 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@352c8ad5
+2023-11-12 20:34:05,109 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@d2b9039
+2023-11-12 20:34:05,125 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@33e63819
+2023-11-12 20:34:05,144 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@5f99501d
+2023-11-12 20:34:05,167 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@1896791b
+2023-11-12 20:34:05,189 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@39e2d022
+2023-11-12 20:34:05,218 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@1e4d191
+2023-11-12 20:34:05,239 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@457c51c2
+2023-11-12 20:34:05,257 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@4c7b8190
+2023-11-12 20:34:05,279 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@4565945f
+2023-11-12 20:34:05,300 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@6e1842d6
+2023-11-12 20:34:05,317 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@209b6655
+2023-11-12 20:34:05,347 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@59934ed3
+2023-11-12 20:34:05,368 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@4a043e5a
+2023-11-12 20:34:05,399 [INFO] in scala-execution-context-global-30 - [[34mINFO [0;39m] c.j.m.s.Util$ - workaround for image, lossless: true filetype: png img: javafx.scene.image.Image@45c251ca
